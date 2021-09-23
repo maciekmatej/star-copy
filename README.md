@@ -1,24 +1,7 @@
-# 
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# star-copy
+copy of part of starbucks' website. This project is ONLY for practice purposes.
+It was made by me from scratch to improve replicating a given design
+#
+live preview: https://maciekmatej.github.io/star-copy/
+#
+original version can be found here: https://www.starbucks.com/rewards
